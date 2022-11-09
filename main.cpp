@@ -1,4 +1,4 @@
-// E1E121050 - ANNISA AZ'ZAHRA TARIMANA
+// E1E121050 - ANNISA AZ'ZAHRA TARIMANA TES
 // LINE 1 SAMPAI LINE 55
 
 #include <windows.h> //membersihkan layar
@@ -13,7 +13,7 @@ void bilah (float r_inner,float r_outer,float tebal,int batang); //menggambar bi
 int screen_width=800;// berfungsi untuk mengatur lebar screen
 int screen_height=600;//berfungsi untuk mengatur tinggi screen
 int button_up=0,button_down=0 ;//berfungsi mengatur tombol ke atas dan ke bawah
-int Turn=0; //berfungsi untuk mengatur arah pada layar
+int Turn=0; //berfungsi untuk mengatur arah pada layar TES2
 
 //atur variabel awal untuk pergerakan
 double rotation_y=0,rotation_y_plus=0,direction;// mengatur rotasi agar searah jarum jam
